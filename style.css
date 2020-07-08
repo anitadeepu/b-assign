@@ -1,0 +1,15 @@
+:root{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 3em;
+}
+
+p{
+    font-style: italic;
+    font-weight: bold;
+    font: italic 20px Verdana;
+}
